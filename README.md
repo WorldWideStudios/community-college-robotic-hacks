@@ -16,16 +16,4 @@ Every hack is a full day of building with robot kits, 3D printers and AI tools. 
 
 ## Posters
 
-Each poster is an 11 × 8.5 in landscape PDF. Print it, share it with faculty, or attach it to an online class announcement.
-
-### City College of San Francisco
-
-[![CCSF Robotics Hack poster](posters/previews/ccsf-robotics-hack-poster.png)](posters/ccsf-robotics-hack-poster-11x8.5.pdf)
-
-### Madison Tech
-
-[![Madison Tech Robotics Hack poster](posters/previews/madison-robotics-hack-poster.png)](posters/madison-robotics-hack-poster-11x8.5.pdf)
-
-### Bergen Community College
-
-[![Bergen Robotics Hack poster](posters/previews/bergen-robotics-hack-poster.png)](posters/bergen-robotics-hack-poster-11x8.5.pdf)
+Each poster is an 11 × 8.5 in landscape PDF. Print it, share it with faculty, or attach it to an online class announcement. Links are in the table above.
