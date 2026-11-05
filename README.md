@@ -10,7 +10,7 @@ Every hack is a full day of building with robot kits, 3D printers and AI tools. 
 |---|---|---|---|---|---|
 | City College of San Francisco | Fri, Nov 6 | 9am–3pm | Rosenberg Library Collaboratory at CCSF, San Francisco, CA | [luma.com/ccsf-robotics-hack](https://luma.com/ccsf-robotics-hack) | [PDF](posters/ccsf-robotics-hack-poster-11x8.5.pdf) |
 | Madison Tech | Sat, Nov 14* | 9am–6pm | Madison Tech, Madison, WI | [luma.com/madison-robotics-hack](https://luma.com/madison-robotics-hack) | [PDF](posters/madison-robotics-hack-poster-11x8.5.pdf) |
-| Bergen Community College | Fri, Nov 20 | 9am–6pm | STEM Student Research Center, Paramus, NJ | [luma.com/bergen-robotics-hack](https://luma.com/bergen-robotics-hack) | [PDF](posters/bergen-robotics-hack-poster-11x8.5.pdf) |
+| Bergen Community College | Mon, Dec 7 | 10am–5pm | STEM Student Research Center, Paramus, NJ | [luma.com/bergen-robotics-hack](https://luma.com/bergen-robotics-hack) | [PDF](posters/bergen-robotics-hack-poster-11x8.5.pdf) |
 
 \* Madison's date is still being confirmed. Check the Luma page for the latest.
 
