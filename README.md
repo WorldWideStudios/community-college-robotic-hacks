@@ -2,7 +2,7 @@
 
 Resources and curriculum for the fall 2026 one-day robotics hacks, run by [Worldwide Studios](https://worldwide-studios.org) with La Fondation Dassault Systèmes and each host college.
 
-Every hack is a full day of building with robot kits, 3D printers and AI tools. They're open to every student at the host college, in any major. No experience or pre-reqs needed.
+Every hack is a full day of building with robot kits, robot arms and AI tools. They're open to every student at the host college, in any major. No experience or pre-reqs needed.
 
 ## Hacks
 
